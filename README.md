@@ -212,13 +212,8 @@ This diagram represents relationships between Customers, Orders, Products, and O
 
 
 
-## Limitations
-- This project uses sample data only.
-- Revenue is calculated from product price and quantity, without discount or tax logic.
-- No payment, shipping, or return tables are included.
-- No indexes or stored procedures are added yet.
 
----
+
 
 
 ## Conclusion
